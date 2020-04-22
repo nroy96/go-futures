@@ -1,0 +1,5 @@
+package futures
+
+import (
+	"testing"
+)
